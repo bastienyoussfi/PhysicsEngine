@@ -7,7 +7,6 @@ This project implements a particle simulation using Verlet Integration, a numeri
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
@@ -49,7 +48,7 @@ To use the Verlet Integration Particle Simulation in your project, you can simpl
 
 ## Examples
 
-
+![Capture d'écran 2024-05-28 172050](https://github.com/bastienyoussfi/PhysicsEngine/assets/119053006/83a9f951-cf68-40fa-9fa1-d3ffd38c3431)
 
 ## Contributing
 
